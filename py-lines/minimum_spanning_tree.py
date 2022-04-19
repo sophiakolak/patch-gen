@@ -1,0 +1,1 @@
+{"buggy_line": "                group_by_node[node].update(group_by_node[u])\n", "correct_line": "                group_by_node[node] = group_by_node[u]\n"}

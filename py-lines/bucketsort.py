@@ -1,0 +1,1 @@
+{"buggy_line": "    for i, count in enumerate(arr):\n", "correct_line": "    for i, count in enumerate(counts):\n"}

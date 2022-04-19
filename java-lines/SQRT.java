@@ -1,0 +1,1 @@
+{"buggy_line": "            approx = 0.5f * (approx + x / approx);\n", "correct_line": "        double approx = x / 2d;\n"}

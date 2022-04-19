@@ -1,0 +1,1 @@
+{"buggy_line": "            if (hare.getSuccessor() == null)\n", "correct_line": "            if (null==hare ||hare.getSuccessor() == null)\n"}

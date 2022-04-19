@@ -1,0 +1,1 @@
+{"buggy_line": "        return new ArrayList<Integer>();\n", "correct_line": "        return new ArrayList<Integer>(Arrays.asList(n));\n"}

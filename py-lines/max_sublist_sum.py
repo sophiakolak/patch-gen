@@ -1,0 +1,1 @@
+{"buggy_line": "        max_ending_here = max_ending_here + x\n", "correct_line": "        max_ending_here = max(0, max_ending_here + x)\n"}

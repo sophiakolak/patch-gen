@@ -1,0 +1,1 @@
+{"buggy_line": "    public int shortest_path_length(Map<List<Node>, Integer> length_by_edge, Node startnode, Node goalnode) {\n", "correct_line": "    public static int shortest_path_length(Map<List<Node>, Integer> length_by_edge, Node startnode, Node goalnode) {\n"}

@@ -1,0 +1,1 @@
+{"buggy_line": "                    result.add(flatten(x));\n", "correct_line": "                    result.add((x));\n"}

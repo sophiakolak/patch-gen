@@ -1,0 +1,1 @@
+{"buggy_line": "        while (true) {\n", "correct_line": "        while (!queue.isEmpty()) {\n"}

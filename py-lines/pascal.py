@@ -1,0 +1,1 @@
+{"buggy_line": "        for c in range(0, r):\n", "correct_line": "        for c in range(0, r + 1):\n"}

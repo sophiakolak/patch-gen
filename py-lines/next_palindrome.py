@@ -1,0 +1,1 @@
+{"buggy_line": "    return [1] + (len(digit_list)) * [0] + [1]\n", "correct_line": "    return [1] + (len(digit_list) - 1) * [0] + [1]\n"}

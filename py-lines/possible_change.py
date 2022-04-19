@@ -1,0 +1,1 @@
+{"buggy_line": "    if total < 0:\n", "correct_line": "    if total < 0 or not coins:\n"}

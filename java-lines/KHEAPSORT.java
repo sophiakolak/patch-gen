@@ -1,0 +1,1 @@
+{"buggy_line": "        for (Integer x : arr) {\n", "correct_line": "        for (Integer x : arr.subList(k, arr.size())) {\n"}

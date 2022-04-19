@@ -1,0 +1,1 @@
+{"buggy_line": "                if perm[j] < perm[i]:\n", "correct_line": "                if perm[i] < perm[j]:\n"}

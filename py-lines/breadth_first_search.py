@@ -1,0 +1,1 @@
+{"buggy_line": "    while True:\n", "correct_line": "    while queue:\n"}

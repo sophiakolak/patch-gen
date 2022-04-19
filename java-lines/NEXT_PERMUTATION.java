@@ -1,0 +1,1 @@
+{"buggy_line": "                    if (perm.get(j) < perm.get(i)) {\n", "correct_line": "                    if (perm.get(j) > perm.get(i)) {\n"}

@@ -1,0 +1,1 @@
+{"buggy_line": "                    groupByNode = update(groupByNode, node, vertex_u);\n", "correct_line": "                    groupByNode.put(node,  groupByNode.get(vertex_u));\n"}

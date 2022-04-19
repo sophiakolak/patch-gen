@@ -1,0 +1,1 @@
+{"buggy_line": "            if weight < j:\n", "correct_line": "            if weight <= j:\n"}

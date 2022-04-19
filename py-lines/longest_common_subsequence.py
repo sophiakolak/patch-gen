@@ -1,0 +1,1 @@
+{"buggy_line": "        return a[0] + longest_common_subsequence(a[1:], b)\n", "correct_line": "        return a[0] + longest_common_subsequence(a[1:], b[1:])\n"}

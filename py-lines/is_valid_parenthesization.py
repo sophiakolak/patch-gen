@@ -1,0 +1,1 @@
+{"buggy_line": "    return True\n", "correct_line": "    return depth == 0\n"}

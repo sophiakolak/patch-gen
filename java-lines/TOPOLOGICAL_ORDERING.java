@@ -1,0 +1,1 @@
+{"buggy_line": "                if (orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode)) {\n", "correct_line": "                if (orderedNodes.containsAll(nextNode.getPredecessors()) && !orderedNodes.contains(nextNode)) {\n"}

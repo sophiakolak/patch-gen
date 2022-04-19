@@ -1,0 +1,1 @@
+{"buggy_line": "            return 1 + levenshtein(source.substring(1), target.substring(1));\n", "correct_line": "            return levenshtein(source.substring(1), target.substring(1));\n"}

@@ -1,0 +1,1 @@
+{"buggy_line": "        if any(n % p > 0 for p in primes):\n", "correct_line": "        if all(n % p > 0 for p in primes):\n"}

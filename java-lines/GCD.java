@@ -1,0 +1,1 @@
+{"buggy_line": "            return gcd(a % b, b);\n", "correct_line": "            return gcd(b, a%b);\n"}

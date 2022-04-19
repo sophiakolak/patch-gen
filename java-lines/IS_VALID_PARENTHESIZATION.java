@@ -1,0 +1,1 @@
+{"buggy_line": "\treturn true;\n", "correct_line": "\treturn depth==0;\n"}

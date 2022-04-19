@@ -1,0 +1,1 @@
+{"buggy_line": "            ArrayList<ArrayList> rest_subsets = powerset(rest);\n", "correct_line": "\tpublic static ArrayList<ArrayList> powerset(ArrayList arr) {\n"}

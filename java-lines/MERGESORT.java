@@ -1,0 +1,1 @@
+{"buggy_line": "        if (arr.size() == 0) { // <= 1 in correct version\n", "correct_line": "        if (arr.size() <= 1) { // <= 1 in correct version\n"}

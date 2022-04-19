@@ -1,0 +1,1 @@
+{"buggy_line": "    for x in arr:\n", "correct_line": "    for x in arr[k:]:\n"}

@@ -1,0 +1,1 @@
+{"buggy_line": "        return [[first] + subset for subset in rest_subsets]\n", "correct_line": "        return rest_subsets + [[first] + subset for subset in rest_subsets]\n"}

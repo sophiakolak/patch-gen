@@ -1,0 +1,1 @@
+{"buggy_line": "            return kth(above, k);\n", "correct_line": "            return kth(above, k-num_lessoreq);\n"}

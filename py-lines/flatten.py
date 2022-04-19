@@ -1,0 +1,1 @@
+{"buggy_line": "            yield flatten(x)\n", "correct_line": "            yield x\n"}

@@ -1,0 +1,1 @@
+{"buggy_line": "        result = result + alphabet[i]\n", "correct_line": "        result = alphabet[i] + result\n"}
