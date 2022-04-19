@@ -1,4 +1,4 @@
-# Language model analysis 
+# Patch Generation with LLMs : feasability and scaling behavior 
 
 This repository stores 
 1. the data from the language model scale experiments
